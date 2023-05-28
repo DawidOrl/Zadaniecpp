@@ -1,0 +1,4 @@
+﻿  Zadanie.cpp
+C:\Users\Dawid\Desktop\c++\Zadanie\Zadanie\Zadanie.cpp(203,32): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\c++\Zadanie\Zadanie\Zadanie.cpp(27): warning C4715: "isMaking”: niewszystkie ścieżki kodu zwracają wartość
+  Zadanie.vcxproj -> C:\Users\Dawid\Desktop\c++\Zadanie\x64\Debug\Zadanie.exe
